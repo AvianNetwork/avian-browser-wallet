@@ -1,0 +1,11 @@
+{
+  "name": "avianwallet",
+  "title": "Avian 1.0.1 Chromium Browser Extension",
+  "description": "Avian wallet in the browser. Send and receive instantly on any web page.",
+  "author": "Craig Donnachie",
+  "license": "MIT",
+  "version": "1.0.1",
+  "permissions": {
+      "cross-domain-content": ["https://avn.network" ]
+  }
+}
